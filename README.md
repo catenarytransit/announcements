@@ -1,3 +1,16 @@
 # Catenary Open Announcement Project
 
-Trains sound cool too. More README details TBA, but for now it's a credits page. WMATA announcements were sourced from https://tris.fyi/wmata, defect detector files were provided to Catenary by Cole Thomsen aka BlowtorchHonor, and Sound Transit announcements were provided by quacksire with original files from Kevin Wallace's announcements at https://kevin.wallace.seattle.wa.us/foi/link-sounds/. Feel free to download, link, use these files for whatever.
+Trains sound cool too. More README details TBA, but for now it's a credits page.  Feel free to download, link, use these files for whatever.
+
+## Credits
+
+- **WMATA Announcements**
+  - Source: [tris.fyi/wmata](https://tris.fyi/wmata)
+
+- **Defect Detector Files**
+  - Provided by: Cole Thomsen (BlowtorchHonor)
+
+- **Sound Transit Announcements**
+  - Provided by: quacksire
+  - Original files from: [kevin.wallace.seattle.wa.us/foi/link-sounds](https://kevin.wallace.seattle.wa.us/foi/link-sounds/)
+
