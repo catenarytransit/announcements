@@ -47,6 +47,5 @@ SYNC:
         - NEXT STOP:
             - <CHIME>
             - A_*.WAV
-        - NOW ARRIVING:
-            - <CHIME>
+        - ARRIVED:
             - B_*.WAV

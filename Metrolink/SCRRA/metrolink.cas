@@ -86,7 +86,6 @@ ROUTE:
         - 169 VENTURA E
     VCL SB:
         - INTRO
-        - 169 VENTURA E
         - 168 OXNARD
         - 166 CAMARILLO
         - INTRO
@@ -103,7 +102,6 @@ ROUTE:
         - 107 LAUS
     IEOC WB:
         - INTRO
-        - 185 SB DTN
         - 124 SB DEPOT
         - 123 RIVERSIDE DTN
         - 148 RIV LA SIERRA
