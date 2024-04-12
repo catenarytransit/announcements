@@ -3,227 +3,227 @@ BASEPATH: https://github.com/catenarytransit/announcements/raw/main/Metrolink/SA
 ROUTE:
     OCL NB:
         - INTRO
-        - ML133 SAN CLEMENTE PIER
-        - ML152 SAN CLEMENTE
-        - ML153 SAN JUAN CAPISTRANO
-        - ML141 LAGUNA N MISSION V
-        - ML140 IRVINE
-        - ML156 TUSTIN
-        - ML154 SANTA ANA
-        - ML145 ORANGE
-        - ML128 ANAHEIM
-        - ML174 FULLERTON
-        - ML130 BUENA PK
-        - ML143 NORWALK
-        - ML135 COMMERCE
+        - 133 SAN CLEMENTE PIER
+        - 152 SAN CLEMENTE
+        - 153 SAN JUAN CAPISTRANO
+        - 141 LAGUNA N MISSION V
+        - 140 IRVINE
+        - 156 TUSTIN
+        - 154 SANTA ANA
+        - 145 ORANGE
+        - 128 ANAHEIM
+        - 174 FULLERTON
+        - 130 BUENA PK
+        - 143 NORWALK
+        - 135 COMMERCE
         - INTRO
-        - ML107 LAUS
+        - 107 LAUS
     OCL SB:
         - INTRO
-        - ML135 COMMERCE
-        - ML143 NORWALK
-        - ML130 BUENA PK
-        - ML174 FULLERTON
-        - ML128 ANAHEIM
-        - ML145 ORANGE
-        - ML154 SANTA ANA
-        - ML156 TUSTIN
-        - ML140 IRVINE
-        - ML141 LAGUNA N MISSION V
-        - ML153 SAN JUAN CAPISTRANO
-        - ML152 SAN CLEMENTE
-        - ML133 SAN CLEMENTE PIER
-        - ML144 OCEANSIDE
+        - 135 COMMERCE
+        - 143 NORWALK
+        - 130 BUENA PK
+        - 174 FULLERTON
+        - 128 ANAHEIM
+        - 145 ORANGE
+        - 154 SANTA ANA
+        - 156 TUSTIN
+        - 140 IRVINE
+        - 141 LAGUNA N MISSION V
+        - 153 SAN JUAN CAPISTRANO
+        - 152 SAN CLEMENTE
+        - 133 SAN CLEMENTE PIER
+        - 144 OCEANSIDE
     AVL NB:
         - INTRO
-        - ML106 GLENDALE
-        - ML102 BURBANK
+        - 106 GLENDALE
+        - 102 BURBANK
         - INTRO
-        - ML186 BURBANK AIR N
-        - ML129 SUN VLY
-        - ML110 SYLMAR SF
+        - 186 BURBANK AIR N
+        - 129 SUN VLY
+        - 110 SYLMAR SF
         - INTRO
-        - ML175 NEWHALL
-        - ML111 STA CLARITA
-        - ML164 VIA PRINCESSA
-        - ML000 VISTA CANYON
+        - 175 NEWHALL
+        - 111 STA CLARITA
+        - 164 VIA PRINCESSA
+        - 000 VISTA CANYON
         - INTRO
-        - ML165 VINCENT GR ACTON
-        - ML163 PALMDALE
-        - ML162 LANCASTER
+        - 165 VINCENT GR ACTON
+        - 163 PALMDALE
+        - 162 LANCASTER
     AVL SB:
         - INTRO
-        - ML163 PALMDALE
-        - ML165 VINCENT GR ACTON
+        - 163 PALMDALE
+        - 165 VINCENT GR ACTON
         - INTRO
-        - ML000 VISTA CYN
-        - ML164 VIA PRINCESSA
-        - ML111 STA CLARITA
-        - ML175 NEWHALL
+        - 000 VISTA CYN
+        - 164 VIA PRINCESSA
+        - 111 STA CLARITA
+        - 175 NEWHALL
         - INTRO
-        - ML110 SYLMAR SF
-        - ML129 SUN VLY
-        - ML186 BURBANK AIR N
+        - 110 SYLMAR SF
+        - 129 SUN VLY
+        - 186 BURBANK AIR N
         - INTRO
-        - ML102 BURBANK
-        - ML106 GLENDALE
-        - ML107 LAUS
+        - 102 BURBANK
+        - 106 GLENDALE
+        - 107 LAUS
     VCL NB:
         - INTRO
-        - ML106 GLENDALE
-        - ML102 BURBANK
-        - ML170 BURBANK AIR S
+        - 106 GLENDALE
+        - 102 BURBANK
+        - 170 BURBANK AIR S
         - INTRO
-        - ML113 VAN NUYS
-        - ML167 NORTHRIDGE
-        - ML103 CHATSWORTH
+        - 113 VAN NUYS
+        - 167 NORTHRIDGE
+        - 103 CHATSWORTH
         - INTRO
-        - ML112 SIMI VLY
-        - ML108 MOORPK
-        - ML166 CAMARILLO
+        - 112 SIMI VLY
+        - 108 MOORPK
+        - 166 CAMARILLO
         - INTRO
-        - ML168 OXNARD
-        - ML169 VENTURA E
+        - 168 OXNARD
+        - 169 VENTURA E
     VCL SB:
         - INTRO
-        - ML169 VENTURA E
-        - ML168 OXNARD
-        - ML166 CAMARILLO
+        - 169 VENTURA E
+        - 168 OXNARD
+        - 166 CAMARILLO
         - INTRO
-        - ML108 MOORPK
-        - ML112 SIMI VLY
-        - ML103 CHATSWORTH
+        - 108 MOORPK
+        - 112 SIMI VLY
+        - 103 CHATSWORTH
         - INTRO
-        - ML167 NORTHRIDGE
-        - ML113 VAN NUYS
-        - ML170 BURBANK AIR S
+        - 167 NORTHRIDGE
+        - 113 VAN NUYS
+        - 170 BURBANK AIR S
         - INTRO
-        - ML102 BURBANK
-        - ML106 GLENDALE
-        - ML107 LAUS
+        - 102 BURBANK
+        - 106 GLENDALE
+        - 107 LAUS
     IEOC WB:
         - INTRO
-        - ML185 SB DTN
-        - ML124 SB DEPOT
-        - ML123 RIVERSIDE DTN
-        - ML148 RIV LA SIERRA
+        - 185 SB DTN
+        - 124 SB DEPOT
+        - 123 RIVERSIDE DTN
+        - 148 RIV LA SIERRA
         - INTRO
-        - ML147 CORONA N
-        - ML173 CORONA W
-        - ML171 ANAHEIM CANYON
-        - ML145 ORANGE
-        - ML154 SANTA ANA
-        - ML156 TUSTIN
-        - ML140 IRVINE
-        - ML141 LAGUNA N MISSION V
-        - ML153 SAN JUAN CAPISTRANO
-        - ML152 SAN CLEMENTE
-        - ML133 SAN CLEMENTE PIER
-        - ML144 OCEANSIDE
+        - 147 CORONA N
+        - 173 CORONA W
+        - 171 ANAHEIM CANYON
+        - 145 ORANGE
+        - 154 SANTA ANA
+        - 156 TUSTIN
+        - 140 IRVINE
+        - 141 LAGUNA N MISSION V
+        - 153 SAN JUAN CAPISTRANO
+        - 152 SAN CLEMENTE
+        - 133 SAN CLEMENTE PIER
+        - 144 OCEANSIDE
     IEOC EB:
         - INTRO
-        - ML133 SAN CLEMENTE PIER
-        - ML152 SAN CLEMENTE
-        - ML153 SAN JUAN CAPISTRANO
-        - ML141 LAGUNA N MISSION V
-        - ML140 IRVINE
-        - ML156 TUSTIN
-        - ML154 SANTA ANA
-        - ML145 ORANGE
-        - ML171 ANAHEIM CANYON
-        - ML173 CORONA W
-        - ML147 CORONA N
+        - 133 SAN CLEMENTE PIER
+        - 152 SAN CLEMENTE
+        - 153 SAN JUAN CAPISTRANO
+        - 141 LAGUNA N MISSION V
+        - 140 IRVINE
+        - 156 TUSTIN
+        - 154 SANTA ANA
+        - 145 ORANGE
+        - 171 ANAHEIM CANYON
+        - 173 CORONA W
+        - 147 CORONA N
         - INTRO
-        - ML148 RIV LA SIERRA
-        - ML123 RIVERSIDE DTN
-        - ML124 SB DEPOT
-        - ML185 SB DTN
+        - 148 RIV LA SIERRA
+        - 123 RIVERSIDE DTN
+        - 124 SB DEPOT
+        - 185 SB DTN
     PVL WB:
         - INTRO
-        - ML183 PERRIS DTN
-        - ML182 MORENO VLY
-        - ML181 RIV UCR
-        - ML123 RIVERSIDE DTN
-        - ML148 RIV LA SIERRA
+        - 183 PERRIS DTN
+        - 182 MORENO VLY
+        - 181 RIV UCR
+        - 123 RIVERSIDE DTN
+        - 148 RIV LA SIERRA
         - INTRO
-        - ML147 CORONA N
-        - ML173 CORONA W
-        - ML174 FULLERTON
-        - ML130 BUENA PK
-        - ML143 NORWALK
+        - 147 CORONA N
+        - 173 CORONA W
+        - 174 FULLERTON
+        - 130 BUENA PK
+        - 143 NORWALK
         - INTRO
-        - ML107 LAUS
+        - 107 LAUS
     PVL EB:
         - INTRO
-        - ML143 NORWALK
-        - ML130 BUENA PK
-        - ML174 FULLERTON
-        - ML173 CORONA W
-        - ML147 CORONA N
+        - 143 NORWALK
+        - 130 BUENA PK
+        - 174 FULLERTON
+        - 173 CORONA W
+        - 147 CORONA N
         - INTRO
-        - ML148 RIV LA SIERRA
-        - ML123 RIVERSIDE DTN
-        - ML181 RIV UCR
-        - ML182 MORENO VLY
-        - ML183 PERRIS DTN
-        - ML184 PERRIS S
+        - 148 RIV LA SIERRA
+        - 123 RIVERSIDE DTN
+        - 181 RIV UCR
+        - 182 MORENO VLY
+        - 183 PERRIS DTN
+        - 184 PERRIS S
     RVS WB:
         - INTRO
-        - ML119 PEDLEY
-        - ML117 ONTARIO E
-        - ML120 DTN POMONA
+        - 119 PEDLEY
+        - 117 ONTARIO E
+        - 120 DTN POMONA
         - INTRO
-        - ML127 INDUSTRY
-        - ML126 MONTEBELLO
-        - ML107 LAUS
+        - 127 INDUSTRY
+        - 126 MONTEBELLO
+        - 107 LAUS
     RVS EB:
         - INTRO
-        - ML126 MONTEBELLO
-        - ML127 INDUSTRY
+        - 126 MONTEBELLO
+        - 127 INDUSTRY
         - INTRO
-        - ML120 DTN POMONA
-        - ML117 ONTARIO E
-        - ML119 PEDLEY
-        - ML123 RIVERSIDE DTN
+        - 120 DTN POMONA
+        - 117 ONTARIO E
+        - 119 PEDLEY
+        - 123 RIVERSIDE DTN
     SBL WB:
         - INTRO
-        - ML124 SB DEPOT
-        - ML122 RIALTO
-        - ML116 FONTANA
+        - 124 SB DEPOT
+        - 122 RIALTO
+        - 116 FONTANA
         - INTRO
-        - ML121 CUCAMONGA
-        - ML125 UPLAND
-        - ML118 MONTCLAIR
-        - ML114 CLAREMONT
+        - 121 CUCAMONGA
+        - 125 UPLAND
+        - 118 MONTCLAIR
+        - 114 CLAREMONT
         - INTRO
-        - ML109 POMONA N
-        - ML104 COVINA
-        - ML101 BALDWIN PK
-        - ML105 EL MONTE
-        - ML115 CSULA
+        - 109 POMONA N
+        - 104 COVINA
+        - 101 BALDWIN PK
+        - 105 EL MONTE
+        - 115 CSULA
         - INTRO
-        - ML107 LAUS
+        - 107 LAUS
     SBL EB:
         - INTRO
-        - ML115 CSULA
-        - ML105 EL MONTE
-        - ML101 BALDWIN PK
-        - ML104 COVINA
-        - ML109 POMONA N
+        - 115 CSULA
+        - 105 EL MONTE
+        - 101 BALDWIN PK
+        - 104 COVINA
+        - 109 POMONA N
         - INTRO
-        - ML114 CLAREMONT
-        - ML118 MONTCLAIR
-        - ML125 UPLAND
-        - ML121 CUCAMONGA
+        - 114 CLAREMONT
+        - 118 MONTCLAIR
+        - 125 UPLAND
+        - 121 CUCAMONGA
         - INTRO
-        - ML116 FONTANA
-        - ML122 RIALTO
-        - ML124 SB DEPOT
-        - ML185 SB DTN
+        - 116 FONTANA
+        - 122 RIALTO
+        - 124 SB DEPOT
+        - 185 SB DTN
 SYNC:
     INTRO:
         - DEFAULT:
-              - MLX TICKETS.wav
+              - TICKETS.wav
               - $REGIONAL-INTRO
     DEFAULT:
         - NEXT STOP:
