@@ -1,0 +1,54 @@
+BASEPATH: https://github.com/catenarytransit/announcements/raw/main/CATENARY/SAM/
+
+REGIONAL-NEXTSTOP:
+    - <CHIME>
+    - REGIONAL-NEXTSTOPIS.wav
+    - ARG[0]
+    - REGIONAL-BRIEFSTOPS.wav
+    - ARG[0]
+    - REGIONAL-ISOURNEXTSTOP.wav
+REGIONAL-ARRIVING:
+    - <CHIME>
+    - REGIONAL-NEXTSTOPIS.wav
+    - ARG[0]
+    - REGIONAL-ARRIVAL.wav
+    - ARG[0]
+    - REGIONAL-ISOURNEXTSTOP.wav
+REGIONAL-INTRO:
+    - REGIONAL-SAFETY.wav
+INTRO:
+    - SERVICE.wav
+    - ARG[0]
+    - DEST.wav
+    - ARG[1]
+NEXTSTOP:
+    - <CHIME>
+    - NEXT.wav
+    - ARG[0]
+ARRIVING:
+    - <CHIME>
+    - ARRIVING.wav
+    - ARG[0]
+NEXTSTOP-TERMINUS:
+    - <CHIME>
+    - NEXT.wav
+    - ARG[0]
+    - ASFAR.wav
+ARRIVING-TERMINUS:
+    - <CHIME>
+    - ARRIVING.wav
+    - ARG[0]
+    - ASFAR.wav
+    - LASTSTOP.wav
+    - THX.wav
+DOORS-LEFT:
+    - INDIR.wav
+    - DL.wav
+DOORS-RIGHT:
+    - INDIR.wav
+    - DR.wav
+DOORS-BOTH:
+    - INDIR.wav
+    - DB.wav
+CHIME:
+    - <CHIME>
