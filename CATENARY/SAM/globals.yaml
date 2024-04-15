@@ -33,19 +33,11 @@ BUS-NEXTSTOP-SINGLE:
     - <CHIME>
     - APPROACHING.wav
     - ARG[0]
-BUS-LASTSTOP-SINGLE:
+BUS-NEXTSTOP-NOAND:
     - <CHIME>
     - APPROACHING.wav
     - ARG[0]
-    - LASTSTOP.wav
-BUS-NEXTSTOP-FOLLOWING:
-    - <CHIME>
-    - APPROACHING.wav
-    - ARG[0]
-    - AND.wav
     - ARG[1]
-    - FOLLOWED BY.wav
-    - ARG[2]
 INTRO:
     - SERVICE.wav
     - ARG[0]

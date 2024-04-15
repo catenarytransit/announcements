@@ -8877,7 +8877,7 @@ SYNC:
               - $BUS-NEXTSTOP[OLD HWY 80.wav,15141.wav]
     98097:
         - APPROACHING:
-              - $BUS-NEXTSTOP[OLD HWY 80.wav,26930 OPP HEAVENLY OAKS MHP.wav]
+              - $BUS-NEXTSTOP-NOAND[OLD HWY 80.wav,26930 OPP HEAVENLY OAKS MHP.wav]
     98095:
         - APPROACHING:
               - $BUS-NEXTSTOP[OLD HWY 80.wav,27446.wav]
@@ -8886,7 +8886,7 @@ SYNC:
               - $BUS-NEXTSTOP[OLD HWY 80.wav,27521 PINE VALLEY TRAILER PARK.wav]
     98067:
         - APPROACHING:
-              - $BUS-NEXTSTOP[OLD HWY 80.wav,39334 OPP LIQUOR STORE.wav]
+              - $BUS-NEXTSTOP-NOAND[OLD HWY 80.wav,39334 OPP LIQUOR STORE.wav]
     98065:
         - APPROACHING:
               - $BUS-NEXTSTOP[OLD HWY 80.wav,39550 POST OFFICE.wav]
@@ -10392,10 +10392,10 @@ SYNC:
               - $BUS-NEXTSTOP[REO DR.wav,BOLIVAR ST.wav]
     13184:
         - APPROACHING:
-              - $BUS-NEXTSTOP[REYNARD WY.wav,2717 OPP.wav]
+              - $BUS-NEXTSTOP-NOAND[REYNARD WY.wav,2717 OPP.wav]
     13099:
         - APPROACHING:
-              - $BUS-NEXTSTOP[REYNARD WY.wav,2850 OPP.wav]
+              - $BUS-NEXTSTOP-NOAND[REYNARD WY.wav,2850 OPP.wav]
     11619:
         - APPROACHING:
               - $BUS-NEXTSTOP[REYNARD WY.wav,ARROYO DR.wav]
