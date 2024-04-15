@@ -11,11 +11,11 @@ ROUTE:
 SYNC:
   METRO CTR:
     - NEXT STOP:
-      - $NEXTSTOP[P3010%20E%20Line/A,%20E,%20and%20Green/audio/1800.wav]
-      - $EXITFOR[P3010%20E%20Line/A,%20E,%20and%20Green/audio/12419.wav]
+      - $NEXTSTOP[1800.wav]
+      - $EXITFOR[12419.wav]
       - $CONNECTION[2420v2.wav]
     - NOW ARRIVING:
-      - $ARRIVING[P3010%20E%20Line/A,%20E,%20and%20Green/audio/1800.wav]
+      - $ARRIVING[1800.wav]
   GRAND AVE ARTS:
     - NEXT STOP:
       - $NEXTSTOP[R005_GrandAve.wav]
@@ -36,8 +36,8 @@ SYNC:
       - $ARRIVING[R001_LittleTokyo.wav]
   UNION STATION:
       - NEXT STOP:
-        - $NEXTSTOP[P3010%20E%20Line/A,%20E,%20and%20Green/audio/3500.wav]
-        - $EXITFOR[P3010%20E%20Line/A,%20E,%20and%20Green/audio/32005.wav]
+        - $NEXTSTOP[3500.wav]
+        - $EXITFOR[32005.wav]
         - $CONNECTION[2007v3.wav]
       - NOW ARRIVING:
-        - $ARRIVING[P3010%20E%20Line/A,%20E,%20and%20Green/audio/3500.wav]
+        - $ARRIVING[3500.wav]

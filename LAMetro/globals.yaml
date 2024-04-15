@@ -1,4 +1,4 @@
-BASEPATH: "https://github.com/catenarytransit/announcements/raw/main/LAMetro/P3010%20E%20Line/A,%20E,%20and%20Green/audio/"
+BASEPATH: "https://github.com/catenarytransit/announcements/raw/main/LAMetro/"
 
 NEXTSTOP:
   - <CHIME>
