@@ -14,10 +14,12 @@ for (const line of allstops.toString().split('\n')) {
         let roadnames = stopname.split('&')
         if (roadnames.length == 1) {
             stops += `  ${stopid}:\n`;
-            stops += `      - $BUS-NEXTSTOP-SINGLE[${roadnames[0].trim()}.wav]\n`;
+            stops += `      - APPROACHING:\n`;
+            stops += `          - $BUS-NEXTSTOP-SINGLE[${roadnames[0].trim()}.wav]\n`;
         } else {
             stops += `  ${stopid}:\n`;
-            stops += `      - $BUS-NEXTSTOP[${roadnames[0].trim().replace('(', '').replace(')', '')}.wav,${roadnames[1].trim().replace('(', '').replace(')', '')}.wav]\n`;
+            stops += `      - APPROACHING:\n`;
+            stops += `          - $BUS-NEXTSTOP[${roadnames[0].trim().replace('(', '').replace(')', '')}.wav,${roadnames[1].trim().replace('(', '').replace(')', '')}.wav]\n`;
         }
     }
 }
