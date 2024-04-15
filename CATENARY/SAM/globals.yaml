@@ -16,6 +16,36 @@ REGIONAL-ARRIVING:
     - REGIONAL-ISOURNEXTSTOP.wav
 REGIONAL-INTRO:
     - REGIONAL-SAFETY.wav
+BUS-NEXTSTOP:
+    - <CHIME>
+    - APPROACHING.wav
+    - ARG[0]
+    - AND.wav
+    - ARG[1]
+BUS-LASTSTOP:
+    - <CHIME>
+    - APPROACHING.wav
+    - ARG[0]
+    - AND.wav
+    - ARG[1]
+    - LASTSTOP.wav
+BUS-NEXTSTOP-SINGLE:
+    - <CHIME>
+    - APPROACHING.wav
+    - ARG[0]
+BUS-LASTSTOP-SINGLE:
+    - <CHIME>
+    - APPROACHING.wav
+    - ARG[0]
+    - LASTSTOP.wav
+BUS-NEXTSTOP-FOLLOWING:
+    - <CHIME>
+    - APPROACHING.wav
+    - ARG[0]
+    - AND.wav
+    - ARG[1]
+    - FOLLOWED BY.wav
+    - ARG[2]
 INTRO:
     - SERVICE.wav
     - ARG[0]
