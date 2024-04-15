@@ -1,0 +1,43 @@
+BASEPATH: https://github.com/catenarytransit/announcements/raw/main/LAMetro/
+
+ROUTE:
+  801NB SAMPLE:
+    - METRO CTR
+    - GRAND AVE ARTS
+    - HISTORIC BROADWAY
+    - LITTLE TOKYO
+    - UNION STATION
+
+SYNC:
+  METRO CTR:
+    - NEXT STOP:
+      - $NEXTSTOP[P3010%20E%20Line/A,%20E,%20and%20Green/audio/1800.wav]
+      - $EXITFOR[P3010%20E%20Line/A,%20E,%20and%20Green/audio/12419.wav]
+      - $CONNECTION[2420v2.wav]
+    - NOW ARRIVING:
+      - $ARRIVING[P3010%20E%20Line/A,%20E,%20and%20Green/audio/1800.wav]
+  GRAND AVE ARTS:
+    - NEXT STOP:
+      - $NEXTSTOP[R005_GrandAve.wav]
+      - $EXITFOR[R006_WaltDisney.wav]
+    - NOW ARRIVING:
+      - $ARRIVING[R005_GrandAve.wav]
+  HISTORIC BROADWAY:
+    - NEXT STOP:
+      - $NEXTSTOP[R003_Historic.wav]
+      - $EXITFOR[R004_GrandCentral.wav]
+    - NOW ARRIVING:
+      - $ARRIVING[R003_Historic.wav]
+  LITTLE TOKYO:
+    - NEXT STOP:
+      - $NEXTSTOP[R001_LittleTokyo.wav]
+      - $EXITFOR[R002_JapaneseAmerican.wav]
+    - NOW ARRIVING:
+      - $ARRIVING[R001_LittleTokyo.wav]
+  UNION STATION:
+      - NEXT STOP:
+        - $NEXTSTOP[P3010%20E%20Line/A,%20E,%20and%20Green/audio/3500.wav]
+        - $EXITFOR[P3010%20E%20Line/A,%20E,%20and%20Green/audio/32005.wav]
+        - $CONNECTION[2007v3.wav]
+      - NOW ARRIVING:
+        - $ARRIVING[P3010%20E%20Line/A,%20E,%20and%20Green/audio/3500.wav]

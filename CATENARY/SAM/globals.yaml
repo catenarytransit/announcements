@@ -72,5 +72,3 @@ DOORS-RIGHT:
 DOORS-BOTH:
     - INDIR.wav
     - DB.wav
-CHIME:
-    - <CHIME>
