@@ -18,24 +18,20 @@ REGIONAL-INTRO:
     - REGIONAL-SAFETY.wav
 BUS-NEXTSTOP:
     - <CHIME>
-    - APPROACHING.wav
     - ARG[0]
     - AND.wav
     - ARG[1]
 BUS-LASTSTOP:
     - <CHIME>
-    - APPROACHING.wav
     - ARG[0]
     - AND.wav
     - ARG[1]
     - LASTSTOP.wav
 BUS-NEXTSTOP-SINGLE:
     - <CHIME>
-    - APPROACHING.wav
     - ARG[0]
 BUS-NEXTSTOP-NOAND:
     - <CHIME>
-    - APPROACHING.wav
     - ARG[0]
     - ARG[1]
 INTRO:
