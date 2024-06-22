@@ -1,0 +1,33 @@
+BASEPATH: "https://github.com/catenarytransit/announcements/raw/main/LAMetro/"
+
+NEXTSTOP:
+  - <CHIME>
+  - 12202.wav
+  - ARG[0]
+ARRIVING:
+  - <CHIME>
+  - 12204.wav
+  - ARG[0]
+NEXTSTOP-TERMINUS:
+  - <CHIME>
+  - 12203.wav
+  - ARG[0]
+ARRIVING-TERMINUS:
+  - <CHIME>
+  - 12204.wav
+  - ARG[0]
+  - 12206.wav
+  - LASTSTOP.wav
+  - THX.wav
+DOORS-LEFT:
+  - 12207.wav
+  - 12209.wav
+DOORS-RIGHT:
+  - 12207.wav
+  - 12208.wav
+CONNECTION:
+  - 12210.wav
+  - ARG[0]
+EXITFOR:
+  - 12211.wav
+  - ARG[0]

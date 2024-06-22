@@ -1,0 +1,232 @@
+BASEPATH: https://github.com/catenarytransit/announcements/raw/main/Metrolink/SAM/
+
+ROUTE:
+    OCL NB:
+        - INTRO
+        - 133 SAN CLEMENTE PIER
+        - 152 SAN CLEMENTE
+        - 153 SAN JUAN CAPISTRANO
+        - 141 LAGUNA N MISSION V
+        - 140 IRVINE
+        - 156 TUSTIN
+        - 154 SANTA ANA
+        - 145 ORANGE
+        - 128 ANAHEIM
+        - 174 FULLERTON
+        - 130 BUENA PK
+        - 143 NORWALK
+        - 135 COMMERCE
+        - INTRO
+        - 107 LAUS
+    OCL SB:
+        - INTRO
+        - 135 COMMERCE
+        - 143 NORWALK
+        - 130 BUENA PK
+        - 174 FULLERTON
+        - 128 ANAHEIM
+        - 145 ORANGE
+        - 154 SANTA ANA
+        - 156 TUSTIN
+        - 140 IRVINE
+        - 141 LAGUNA N MISSION V
+        - 153 SAN JUAN CAPISTRANO
+        - 152 SAN CLEMENTE
+        - 133 SAN CLEMENTE PIER
+        - 144 OCEANSIDE
+    AVL NB:
+        - INTRO
+        - 106 GLENDALE
+        - 102 BURBANK
+        - INTRO
+        - 186 BURBANK AIR N
+        - 129 SUN VLY
+        - 110 SYLMAR SF
+        - INTRO
+        - 175 NEWHALL
+        - 111 STA CLARITA
+        - 164 VIA PRINCESSA
+        - 000 VISTA CANYON
+        - INTRO
+        - 165 VINCENT GR ACTON
+        - 163 PALMDALE
+        - 162 LANCASTER
+    AVL SB:
+        - INTRO
+        - 163 PALMDALE
+        - 165 VINCENT GR ACTON
+        - INTRO
+        - 000 VISTA CYN
+        - 164 VIA PRINCESSA
+        - 111 STA CLARITA
+        - 175 NEWHALL
+        - INTRO
+        - 110 SYLMAR SF
+        - 129 SUN VLY
+        - 186 BURBANK AIR N
+        - INTRO
+        - 102 BURBANK
+        - 106 GLENDALE
+        - 107 LAUS
+    VCL NB:
+        - INTRO
+        - 106 GLENDALE
+        - 102 BURBANK
+        - 170 BURBANK AIR S
+        - INTRO
+        - 113 VAN NUYS
+        - 167 NORTHRIDGE
+        - 103 CHATSWORTH
+        - INTRO
+        - 112 SIMI VLY
+        - 108 MOORPK
+        - 166 CAMARILLO
+        - INTRO
+        - 168 OXNARD
+        - 169 VENTURA E
+    VCL SB:
+        - INTRO
+        - 169 VENTURA E
+        - 168 OXNARD
+        - 166 CAMARILLO
+        - INTRO
+        - 108 MOORPK
+        - 112 SIMI VLY
+        - 103 CHATSWORTH
+        - INTRO
+        - 167 NORTHRIDGE
+        - 113 VAN NUYS
+        - 170 BURBANK AIR S
+        - INTRO
+        - 102 BURBANK
+        - 106 GLENDALE
+        - 107 LAUS
+    IEOC WB:
+        - INTRO
+        - 185 SB DTN
+        - 124 SB DEPOT
+        - 123 RIVERSIDE DTN
+        - 148 RIV LA SIERRA
+        - INTRO
+        - 147 CORONA N
+        - 173 CORONA W
+        - 171 ANAHEIM CANYON
+        - 145 ORANGE
+        - 154 SANTA ANA
+        - 156 TUSTIN
+        - 140 IRVINE
+        - 141 LAGUNA N MISSION V
+        - 153 SAN JUAN CAPISTRANO
+        - 152 SAN CLEMENTE
+        - 133 SAN CLEMENTE PIER
+        - 144 OCEANSIDE
+    IEOC EB:
+        - INTRO
+        - 133 SAN CLEMENTE PIER
+        - 152 SAN CLEMENTE
+        - 153 SAN JUAN CAPISTRANO
+        - 141 LAGUNA N MISSION V
+        - 140 IRVINE
+        - 156 TUSTIN
+        - 154 SANTA ANA
+        - 145 ORANGE
+        - 171 ANAHEIM CANYON
+        - 173 CORONA W
+        - 147 CORONA N
+        - INTRO
+        - 148 RIV LA SIERRA
+        - 123 RIVERSIDE DTN
+        - 124 SB DEPOT
+        - 185 SB DTN
+    PVL WB:
+        - INTRO
+        - 183 PERRIS DTN
+        - 182 MORENO VLY
+        - 181 RIV UCR
+        - 123 RIVERSIDE DTN
+        - 148 RIV LA SIERRA
+        - INTRO
+        - 147 CORONA N
+        - 173 CORONA W
+        - 174 FULLERTON
+        - 130 BUENA PK
+        - 143 NORWALK
+        - INTRO
+        - 107 LAUS
+    PVL EB:
+        - INTRO
+        - 143 NORWALK
+        - 130 BUENA PK
+        - 174 FULLERTON
+        - 173 CORONA W
+        - 147 CORONA N
+        - INTRO
+        - 148 RIV LA SIERRA
+        - 123 RIVERSIDE DTN
+        - 181 RIV UCR
+        - 182 MORENO VLY
+        - 183 PERRIS DTN
+        - 184 PERRIS S
+    RVS WB:
+        - INTRO
+        - 119 PEDLEY
+        - 117 ONTARIO E
+        - 120 DTN POMONA
+        - INTRO
+        - 127 INDUSTRY
+        - 126 MONTEBELLO
+        - 107 LAUS
+    RVS EB:
+        - INTRO
+        - 126 MONTEBELLO
+        - 127 INDUSTRY
+        - INTRO
+        - 120 DTN POMONA
+        - 117 ONTARIO E
+        - 119 PEDLEY
+        - 123 RIVERSIDE DTN
+    SBL WB:
+        - INTRO
+        - 124 SB DEPOT
+        - 122 RIALTO
+        - 116 FONTANA
+        - INTRO
+        - 121 CUCAMONGA
+        - 125 UPLAND
+        - 118 MONTCLAIR
+        - 114 CLAREMONT
+        - INTRO
+        - 109 POMONA N
+        - 104 COVINA
+        - 101 BALDWIN PK
+        - 105 EL MONTE
+        - 115 CSULA
+        - INTRO
+        - 107 LAUS
+    SBL EB:
+        - INTRO
+        - 115 CSULA
+        - 105 EL MONTE
+        - 101 BALDWIN PK
+        - 104 COVINA
+        - 109 POMONA N
+        - INTRO
+        - 114 CLAREMONT
+        - 118 MONTCLAIR
+        - 125 UPLAND
+        - 121 CUCAMONGA
+        - INTRO
+        - 116 FONTANA
+        - 122 RIALTO
+        - 124 SB DEPOT
+        - 185 SB DTN
+SYNC:
+    INTRO:
+        - DEFAULT:
+              - TICKETS.wav
+              - $REGIONAL-INTRO
+    DEFAULT:
+        - NEXT STOP:
+              - $REGIONAL-NEXTSTOP[*.wav]
+        - NOW ARRIVING:
+              - $REGIONAL-ARRIVING[*.wav]

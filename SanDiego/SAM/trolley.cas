@@ -1,0 +1,349 @@
+BASEPATH: https://github.com/catenarytransit/announcements/raw/main/SanDiego/SAM/
+
+ROUTE:
+    BNB:
+        - BLU INTRO UTC VIA DTN
+        - BEYER BOULEVARD
+        - IRIS AVENUE
+        - PALM AVENUE
+        - PALOMAR STREET
+        - BLU INTRO UTC VIA DTN
+        - H STREET
+        - E STREET
+        - 24TH STREET
+        - 8TH STREET
+        - PACIFIC FLEET
+        - HARBORSIDE
+        - BARRIO LOGAN
+        - BLU INTRO UTC VIA DTN
+        - 12TH AND IMPERIAL
+        - BLU INTRO UTC
+        - PARK AND MARKET
+        - CITY COLLEGE
+        - 5TH AVENUE
+        - CIVIC CENTER
+        - BLU INTRO UTC
+        - AMERICA PLAZA
+        - SANTA FE DEPOT
+        - COUNTY CENTER
+        - MIDDLETOWN
+        - WASHINGTON STREET
+        - OLD TOWN
+        - BLU INTRO UTC
+        - TECOLOTE ROAD
+        - CLAIREMONT DRIVE
+        - BALBOA AVENUE
+        - BLU INTRO UTC
+        - NOBEL DRIVE
+        - VA MED CTR
+        - UCSD CENTRAL CAMPUS
+        - UCSD HEALTH LA JOLLA
+        - EXECUTIVE DRIVE
+        - UTC
+    BSB:
+        - EXECUTIVE DRIVE
+        - BLU INTRO SYI VIA DTN
+        - UCSD HEALTH LA JOLLA
+        - UCSD CENTRAL CAMPUS
+        - VA MED CTR
+        - NOBEL DRIVE
+        - BLU INTRO SYI VIA DTN
+        - BALBOA AVENUE
+        - CLAIREMONT DRIVE
+        - TECOLOTE ROAD
+        - OLD TOWN
+        - BLU INTRO SYI VIA DTN
+        - WASHINGTON STREET
+        - MIDDLETOWN
+        - COUNTY CENTER
+        - SANTA FE DEPOT
+        - AMERICA PLAZA
+        - BLU INTRO SYI VIA DTN
+        - CIVIC CENTER
+        - 5TH AVENUE
+        - CITY COLLEGE
+        - PARK AND MARKET
+        - 12TH AND IMPERIAL
+        - BLU INTRO SYI
+        - BARRIO LOGAN
+        - HARBORSIDE
+        - PACIFIC FLEET
+        - 8TH STREET
+        - 24TH STREET
+        - BLU INTRO SYI
+        - E STREET
+        - H STREET
+        - PALOMAR STREET
+        - PALM AVENUE
+        - IRIS AVENUE
+        - BEYER BOULEVARD
+        - BLU INTRO SYI
+        - SAN YSIDRO
+    OWB:
+        - ORG INTRO CHS
+        - EL CAJON
+        - AMAYA DRIVE
+        - GROSSMONT
+        - ORG INTRO CHS
+        - LA MESA BLVD
+        - SPRING STREET
+        - ORG INTRO CHS
+        - LEMON GROVE DEPOT
+        - MASSACHUSETTS AVENUE
+        - ENCANTO
+        - ORG INTRO CHS
+        - EUCLID AVENUE
+        - 47TH STREET
+        - 32ND AND COMMERCIAL
+        - 25TH AND COMMERCIAL
+        - ORG INTRO CHS
+        - 12TH AND IMPERIAL
+        - PARK AND MARKET
+        - CITY COLLEGE
+        - 5TH AVENUE
+        - CIVIC CENTER
+        - COURTHOUSE
+    OEB:
+        - ORG INTRO ARN
+        - CIVIC CENTER
+        - 5TH AVENUE
+        - CITY COLLEGE
+        - PARK AND MARKET
+        - 12TH AND IMPERIAL
+        - ORG INTRO ARN
+        - 25TH AND COMMERCIAL
+        - 32ND AND COMMERCIAL
+        - ORG INTRO ARN
+        - 47TH STREET
+        - EUCLID AVENUE
+        - ORG INTRO ARN
+        - ENCANTO
+        - MASSACHUSETTS AVENUE
+        - ORG INTRO ARN
+        - LEMON GROVE DEPOT
+        - SPRING STREET
+        - ORG INTRO ARN
+        - LA MESA BLVD
+        - GROSSMONT
+        - ORG INTRO ARN
+        - AMAYA DRIVE
+        - EL CAJON
+        - ARNELE AVENUE ORANGE
+    GWB:
+        - GRN INTRO IMP VIA OLT
+        - GILLESPIE FIELD
+        - ARNELE AVENUE
+        - EL CAJON
+        - AMAYA DRIVE
+        - GROSSMONT
+        - GRN INTRO IMP VIA OLT
+        - 70TH STREET
+        - ALVARADO
+        - SAN DIEGO STATE UNIVERSITY
+        - GRN INTRO IMP VIA OLT
+        - GRANTVILLE
+        - MISSION SAN DIEGO
+        - STADIUM
+        - FENTON PARKWAY
+        - RIO VISTA
+        - GRN INTRO IMP VIA OLT
+        - MISSION VALLEY CENTER
+        - HAZARD CENTER
+        - FASHION VALLEY
+        - MORENA LINDA VISTA
+        - OLD TOWN
+        - GRN INTRO IMP
+        - WASHINGTON STREET
+        - MIDDLETOWN
+        - COUNTY CENTER
+        - SANTA FE DEPOT
+        - GRN INTRO IMP
+        - SEAPORT VILLAGE
+        - CONVENTION CENTER
+        - GASLAMP QUARTER
+        - 12TH AND IMPERIAL BAYSIDE
+    GEB:
+        - GRN INTRO SNT VIA OLT
+        - GASLAMP QUARTER
+        - CONVENTION CENTER
+        - SEAPORT VILLAGE
+        - GRN INTRO SNT VIA OLT
+        - SANTA FE DEPOT
+        - COUNTY CENTER
+        - MIDDLETOWN
+        - WASHINGTON STREET
+        - OLD TOWN
+        - GRN INTRO SNT
+        - MORENA LINDA VISTA
+        - FASHION VALLEY
+        - HAZARD CENTER
+        - MISSION VALLEY CENTER
+        - RIO VISTA
+        - FENTON PARKWAY
+        - STADIUM
+        - MISSION SAN DIEGO
+        - GRANTVILLE
+        - SAN DIEGO STATE UNIVERSITY
+        - ALVARADO
+        - 70TH STREET
+        - GRN INTRO SNT
+        - GROSSMONT
+        - AMAYA DRIVE
+        - EL CAJON
+        - ARNELE AVENUE
+        - GILLESPIE FIELD
+        - GRN INTRO SNT
+        - SANTEE
+
+SYNC:
+    BLU INTRO UTC:
+        - DEFAULT:
+            - TD-UTC.wav
+            - WELCOME-TRL.wav
+    BLU INTRO SYI:
+        - DEFAULT:
+            - TD-SYI.wav
+            - WELCOME-TRL.wav
+    BLU INTRO UTC VIA DTN:
+        - DEFAULT:
+            - TD-UTCV.wav
+            - WELCOME-TRL.wav
+    BLU INTRO SYI VIA DTN:
+        - DEFAULT:
+            - TD-SYIV.wav
+            - WELCOME-TRL.wav
+    GRN INTRO IMP:
+        - DEFAULT:
+            - TD-GIM.wav
+            - WELCOME-TRL.wav
+    GRN INTRO SNT:
+        - DEFAULT:
+            - TD-SNT.wav
+            - WELCOME-TRL.wav
+    GRN INTRO IMP VIA OLT:
+        - DEFAULT:
+            - TD-GIMV.wav
+            - WELCOME-TRL.wav
+    GRN INTRO SNT VIA OLT:
+        - DEFAULT:
+            - TD-SNTV.wav
+            - WELCOME-TRL.wav
+    ORG INTRO CHS:
+        - DEFAULT:
+            - TD-OCH.wav
+            - WELCOME-TRL.wav
+    ORG INTRO ARN:
+        - DEFAULT:
+            - TD-ARN.wav
+            - WELCOME-TRL.wav
+    DEFAULT:
+        - NEXT STOP:
+            - $NEXTSTOP[*.wav]
+        - NOW ARRIVING:
+            - $ARRIVING[*.wav]
+    SANTA FE DEPOT:
+        - NEXT STOP:
+            - $NEXTSTOP[SANTA FE DEPOT.wav]
+            - CXN-SFD.wav
+        - NOW ARRIVING:
+            - $ARRIVING[SANTA FE DEPOT.wav]
+    ARNELE AVENUE:
+        - NEXT STOP:
+            - $NEXTSTOP[ARNELE AVENUE.wav]
+            - CXN-ARN.wav
+        - NOW ARRIVING:
+            - $ARRIVING[ARNELE AVENUE.wav]
+    CITY COLLEGE:
+        - NEXT STOP:
+            - $NEXTSTOP[CITY COLLEGE.wav]
+            - CXN-CIT.wav
+        - NOW ARRIVING:
+            - $ARRIVING[CITY COLLEGE.wav]
+    CIVIC CENTER:
+        - NEXT STOP:
+            - $NEXTSTOP[CIVIC CENTER.wav]
+            - CXN-CIV.wav
+        - NOW ARRIVING:
+            - $ARRIVING[CIVIC CENTER.wav]
+    EL CAJON:
+        - NEXT STOP:
+            - $NEXTSTOP[EL CAJON.wav]
+            - CXN-ELC.wav
+        - NOW ARRIVING:
+            - $ARRIVING[EL CAJON.wav]
+    GROSSMONT:
+        - NEXT STOP:
+            - $NEXTSTOP[GROSSMONT.wav]
+            - CXN-GRO.wav
+        - NOW ARRIVING:
+            - $ARRIVING[GROSSMONT.wav]
+    12TH AND IMPERIAL:
+        - NEXT STOP:
+            - $NEXTSTOP[12TH AND IMPERIAL.wav]
+            - CXN-IMP.wav
+        - NOW ARRIVING:
+            - $ARRIVING[12TH AND IMPERIAL.wav]
+    IRIS AVENUE:
+        - NEXT STOP:
+            - $NEXTSTOP[IRIS AVENUE.wav]
+            - CXN-IRS.wav
+        - NOW ARRIVING:
+            - $ARRIVING[IRIS AVENUE.wav]
+    NOBEL DRIVE:
+        - NEXT STOP:
+            - $NEXTSTOP[NOBEL DRIVE.wav]
+            - CXN-NOB.wav
+        - NOW ARRIVING:
+            - $ARRIVING[NOBEL DRIVE.wav]
+    OLD TOWN:
+        - NEXT STOP:
+            - $NEXTSTOP[OLD TOWN.wav]
+            - CXN-OLT.wav
+        - NOW ARRIVING:
+            - $ARRIVING[OLD TOWN.wav]
+    SAN DIEGO STATE UNIVERSITY:
+        - NEXT STOP:
+            - $NEXTSTOP[SAN DIEGO STATE UNIVERSITY.wav]
+            - CXN-SDS.wav
+        - NOW ARRIVING:
+            - $ARRIVING[SAN DIEGO STATE UNIVERSITY.wav]
+    WASHINGTON STREET:
+        - NEXT STOP:
+            - $NEXTSTOP[WASHINGTON STREET.wav]
+        - CAUTION:
+            - CAUTION-WAS.wav
+        - NOW ARRIVING:
+            - $ARRIVING[WASHINGTON STREET.wav]
+    UTC:
+        - NEXT STOP:
+            - $NEXTSTOP-TERMINUS[UTC.wav]
+            - CXN-UTC.wav
+        - NOW ARRIVING:
+            - $ARRIVING-TERMINUS[UTC.wav]
+    SAN YSIDRO:
+        - NEXT STOP:
+            - $NEXTSTOP-TERMINUS[SAN YSIDRO.wav]
+        - NOW ARRIVING:
+            - $ARRIVING-TERMINUS[SAN YSIDRO.wav]
+    SANTEE:
+        - NEXT STOP:
+            - $NEXTSTOP-TERMINUS[SANTEE.wav]
+        - NOW ARRIVING:
+            - $ARRIVING-TERMINUS[SANTEE.wav]
+    12TH AND IMPERIAL BAYSIDE:
+        - NEXT STOP:
+            - $NEXTSTOP-TERMINUS[12TH AND IMPERIAL.wav]
+            - CXN-IMP.wav
+        - NOW ARRIVING:
+            - $ARRIVING-TERMINUS[12TH AND IMPERIAL.wav]
+    ARNELE AVENUE ORANGE:
+        - NEXT STOP:
+            - $NEXTSTOP-TERMINUS[ARNELE AVENUE.wav]
+        - NOW ARRIVING:
+            - $ARRIVING-TERMINUS[ARNELE AVENUE.wav]
+    COURTHOUSE:
+        - NEXT STOP:
+            - $NEXTSTOP-TERMINUS[COURTHOUSE.wav]
+        - NOW ARRIVING:
+            - $ARRIVING-TERMINUS[COURTHOUSE.wav]
+    

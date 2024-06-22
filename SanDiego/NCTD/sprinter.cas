@@ -1,0 +1,51 @@
+BASEPATH: https://github.com/catenarytransit/announcements/raw/main/SanDiego/NCTD/
+ROUTE:
+    SPRINTER EB:
+        - WELCOME
+        - COAHIG
+        - CROSTR
+        - ELCREA
+        - RADEOR
+        - WELCOME
+        - COLBOU
+        - MELROS
+        - VITRCE
+        - CCDRVI
+        - BUECRE
+        - WELCOME
+        - PALCOL
+        - SMARCC
+        - CSSMAR
+        - WELCOME
+        - NORDAH
+        - ESTRCE
+    SPRINTER WB:
+        - WELCOME
+        - NORDAH
+        - CSSMAR
+        - WELCOME
+        - SMARCC
+        - PALCOL
+        - BUECRE
+        - WELCOME
+        - CCDRVI
+        - VITRCE
+        - MELROS
+        - COLBOU
+        - WELCOME
+        - RADEOR
+        - ELCREA
+        - CROSTR
+        - COAHIG
+        - OCTRCE
+SYNC:
+    WELCOME:
+        - DEFAULT:
+            - WELCOME.WAV
+            - PRISEAAR.WAV
+    DEFAULT:
+        - NEXT STOP:
+            - <CHIME>
+            - A_*.WAV
+        - ARRIVED:
+            - B_*.WAV
