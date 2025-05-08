@@ -10,9 +10,12 @@ A project to document and standardize the world's train and bus announcements. W
 - **WMATA Announcements**
   - Source: [tris.fyi/wmata](https://tris.fyi/wmata)
 
-- **BART, SFMTA Announcements**
+- **BART Announcements**
     - Provided by: quacksire
     - Original files from: [Public Data Library](https://www.youtube.com/@publicdatalibrary)
+
+- **SFMTA Announcements**
+    - Provided by: quacksire
 
 - **Sound Transit Announcements**
   - Provided by: quacksire
